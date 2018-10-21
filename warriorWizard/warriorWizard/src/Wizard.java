@@ -22,7 +22,7 @@ public class Wizard extends GameObject {
 
     @Override
     public void render(Graphics2D g) {
-        g.setColor(Color.GREEN);
+        g.setColor(Color.BLUE);
         g.fillRect(x, y, 30, 30);
     }
 
